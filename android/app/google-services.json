@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "104393907415",
+    "project_id": "math2-b646b",
+    "storage_bucket": "math2-b646b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104393907415:android:0119803548ded817fc2492",
+        "android_client_info": {
+          "package_name": "com.nividata.mathmatrix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCr7CKuJReFlnsWT7yVKEjL00ctsVLP0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
